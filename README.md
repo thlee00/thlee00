@@ -1,6 +1,7 @@
 <hr>
 <div align=center>
-<img src="https://user-images.githubusercontent.com/56151577/208249412-5aec1c1d-0042-4e7c-a87f-a6be585acfbd.png">
+<img src="https://user-images.githubusercontent.com/56151577/208249466-cea61472-1b03-4c8e-b6a4-6a72f7ae23a3.gif>
+
 </div>
 
 <div align=center>
