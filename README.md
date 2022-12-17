@@ -1,5 +1,5 @@
 <div align=center>
-![header](https://capsule-render.vercel.app/api?type=wave&color=5:FFEBCD,100:DC143C&height=200&section=header&text=Hi%20there!&fontSize=90&animation=fadeIn)
+<img sr="https://capsule-render.vercel.app/api?type=wave&color=5:FFEBCD,100:DC143C&height=200&section=header&text=Hi%20there!&fontSize=90&animation=fadeIn">
 <hr>
 </div>
 
@@ -32,7 +32,7 @@
 <br><br>
 # 🛡️ BOJ Profile 🛡️
 <p>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=journey526)](https://solved.ac/journey526)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=journey526">
 <img src="http://mazandi.herokuapp.com/api?handle=journey526&theme=dark"/>
 </p>
 
