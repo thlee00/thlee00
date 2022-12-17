@@ -1,5 +1,5 @@
 <div align="center">
-<![header](https://capsule-render.vercel.app/api?type=wave&color=5:FFEBCD,100:DC143C&height=200&section=header&text=Hi%20there!&fontSize=90&animation=fadeIn)>
+![header](https://capsule-render.vercel.app/api?type=wave&color=5:FFEBCD,100:DC143C&height=200&section=header&text=Hi%20there!&fontSize=90&animation=fadeIn)
 <hr>
 </div>
 
@@ -18,11 +18,15 @@
 <a href="https://www.instagram.com/taeo.ohui/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/taeo.ohui/"/></a>
 </div>
 
+<div align="center"><h1>💻 GitHub Stats 💻</h1></div>
 <div align="center">
 <![thlee00's GitHub stats](https://github-readme-stats.vercel.app/api?username=thlee00&show_icons=true&theme=onedark)>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thlee00&layout=compact&theme=onedark)
+</div>
 
+<div align="center"><h1>🛡️ BOJ Profile 🛡️</h1></div>
+<div align="center">
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=journey526)](https://solved.ac/journey526)
 
