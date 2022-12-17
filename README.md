@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-<a href="https://thlee00.tistory.com/소"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://thlee00.tistory.com/"/></a>&nbsp
+<a href="https://thlee00.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://thlee00.tistory.com/"/></a>
 
 ![thlee00's github stats](https://github-readme-stats.vercel.app/api?username=thlee00&show_icons=true)
 
