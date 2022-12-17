@@ -1,5 +1,5 @@
 <div align=center>
-<img sr="https://capsule-render.vercel.app/api?type=wave&color=5:FFEBCD,100:DC143C&height=200&section=header&text=Hi%20there!&fontSize=90&animation=fadeIn">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=5:FFEBCD,100:DC143C&height=200&section=header&text=Hi%20there!&fontSize=90&animation=fadeIn">
 <hr>
 </div>
 
@@ -24,8 +24,8 @@
 # 💻 GitHub Stats 💻
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=thlee00&show_icons=true&include_all_commits=true&theme=onedark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thlee00&layout=compact&theme=onedark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thlee00&show_icons=true&include_all_commits=true&theme=onedark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thlee00&layout=compact&theme=onedark">
 </p>
 
 
