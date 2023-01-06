@@ -3,7 +3,7 @@
 
 <img
      src="https://user-images.githubusercontent.com/56151577/208249572-064590a5-0799-4fef-8cce-b9c956fb716d.gif"
-     style="width:405; height:300px;"
+     style="width:270; height:200px;"
 />
 
 </div>
@@ -37,8 +37,14 @@
 <br><br>
 # 🛡️ BOJ Profile 🛡️
 <p>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=journey526">
-<img src="http://mazandi.herokuapp.com/api?handle=journey526&theme=dark"/>
+<img
+     src="http://mazassumnida.wtf/api/v2/generate_badge?boj=journey526"
+     style="width:245; height:119px;"
+/>
+<img
+     src="http://mazandi.herokuapp.com/api?handle=journey526&theme=dark"
+     style="width:245; height:119px;"
+/>
 </p>
 
 <hr>
