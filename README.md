@@ -30,10 +30,10 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=thlee00&show_icons=true&include_all_commits=true&theme=onedark"
-       style="width:270; height:200px;"
+       style="width:253; height:100px;"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thlee00&layout=compact&theme=onedark"
-       style="width:270; height:200px;"
+       style="width:303; height:100px;"
   />
 </p>
 
@@ -43,11 +43,11 @@
 <p>
 <img
      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=journey526"
-     style="width:379.5; height:149.5px;"
+     style="width:280; height:136px;"
 />
 <img
      src="http://mazandi.herokuapp.com/api?handle=journey526&theme=dark"
-     style="width:455; height:149.5px;"
+     style="width:280; height:136px;"
 />
 </p>
 
