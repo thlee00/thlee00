@@ -20,7 +20,7 @@
 
 <br><br>
 # 💖 Follow Me 💖
-<a href="https://github.com/thlee00/"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/thlee00/"style="width:68.5; height:20px;"/></a>
+<a href="https://github.com/thlee00/"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/thlee00/" style="width:68.5; height:20px;"/></a>
 <a href="https://thlee00.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://thlee00.tistory.com/"/></a>
 <a href="https://www.instagram.com/taeo.ohui/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/taeo.ohui/"/></a>
 
