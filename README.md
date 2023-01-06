@@ -30,10 +30,10 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=thlee00&show_icons=true&include_all_commits=true&theme=onedark"
-       style="width:253; height:100px;"
+       style="width:379.5; height:150px;"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thlee00&layout=compact&theme=onedark"
-       style="width:303; height:100px;"
+       style="width:454.5; height:150px;"
   />
 </p>
 
