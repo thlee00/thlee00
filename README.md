@@ -43,11 +43,11 @@
 <p>
 <img
      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=journey526"
-     style="width:379.5; height:149.5px;"
+     style="width:253; height:100px;"
 />
 <img
      src="http://mazandi.herokuapp.com/api?handle=journey526&theme=dark"
-     style="width:455; height:149.5px;"
+     style="width:303; height:100px;"
 />
 </p>
 
