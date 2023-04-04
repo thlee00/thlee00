@@ -46,12 +46,10 @@
 />
 </p>
 
-<p>
 <img
      src="https://user-images.githubusercontent.com/56151577/208249572-064590a5-0799-4fef-8cce-b9c956fb716d.gif"
      style="width:189; height:140px;"
 />
-</p>
 
 <hr>
 
