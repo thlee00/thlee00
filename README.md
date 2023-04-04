@@ -1,11 +1,6 @@
 <hr>
 <div align=center>
 
-<img
-     src="https://user-images.githubusercontent.com/56151577/208249572-064590a5-0799-4fef-8cce-b9c956fb716d.gif"
-     style="width:270; height:200px;"
-/>
-
 </div>
 
 <div align=center>
@@ -53,5 +48,10 @@
 
 <hr>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthlee00%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+<img
+     src="https://user-images.githubusercontent.com/56151577/208249572-064590a5-0799-4fef-8cce-b9c956fb716d.gif"
+     style="width:189; height:140px;"
+/>
 
 </div>
